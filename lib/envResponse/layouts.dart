@@ -17,7 +17,7 @@ class MobileView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child:Center(child: Text('this is mobile'),),
+      child:Center(child: Text('this is a mobile'),),
     );
   }
 }
