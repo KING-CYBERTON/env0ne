@@ -12,7 +12,7 @@ class EvnPlaform extends StatelessWidget {
        required this.MObileviewEvn,
        }): super(key: key);
 
-  static const mobilesize=700;
+  static const mobilesize=1024;
 
   @override
   Widget build(BuildContext context) {
